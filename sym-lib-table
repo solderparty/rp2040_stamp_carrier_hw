@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RP2040_Stamp")(type "KiCad")(uri "${KIPRJMOD}/rp2040_stamp_footprints/KiCad/RP2040_Stamp.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Switching_Extra")(type "KiCad")(uri "${KIPRJMOD}/library/Regulator_Switching_Extra.kicad_sym")(options "")(descr ""))
+)
